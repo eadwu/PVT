@@ -31,3 +31,7 @@ tensorboard
 
 # Python
 __pycache__
+
+# Excess
+dataset/
+pretrained/
